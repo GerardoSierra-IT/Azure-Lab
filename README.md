@@ -1,5 +1,4 @@
 # Enterprise Hybrid Identity & Zero Trust Lab in Azure
-# Enterprise Hybrid Identity & Zero Trust Lab in Azure
 
 ## Project Overview
 
